@@ -17,7 +17,7 @@ A responsive login/signup page with an interactive toggle design, featuring soci
 - Font Awesome Icons
 
 ## Screenshot
-![Login Page Screenshot](screenshot.png)
+![Login Page Screenshot](assets/screenshot.png)
 
 ## Installation
 1. Clone the repository
